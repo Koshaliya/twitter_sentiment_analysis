@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis
+# Twitter Sentiment Analysis
 This project performs sentiment analysis on a dataset of tweets to classify them as positive or negative. 
 The dataset is sourced from Kaggle, and the analysis involves preprocessing the text using Porter Stemmer, vectorizing the text using TF-IDF, and training a machine learning model to predict sentiment.
 
